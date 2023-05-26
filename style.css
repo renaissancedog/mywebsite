@@ -16,10 +16,13 @@ footer {
   padding: 20px;
 }
 h1 {
-  color: lightblue;
+  color: black;
   margin: 0;
 }
-
+h2 {
+  color: black;
+  margin: 0;
+}
 /* Navigation styles */
 nav {
   background-color: #fff;
