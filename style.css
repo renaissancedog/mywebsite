@@ -13,11 +13,13 @@ header {
 h1 {
   color: black;
   margin: 0;
+  fontsize:30px;
 }
 
 h2 {
   color: black;
   margin: 0;
+  fontsize: 25px;
 }
 
 p {
