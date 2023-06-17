@@ -1,0 +1,44 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+h1 {
+  color: black;
+  margin: 0;
+  fontsize:30px;
+}
+
+h2 {
+  color: black;
+  margin: 0;
+  fontsize: 25px;
+}
+
+p {
+  color: #333;
+  line-height: 1.5;
+}
+
+footer {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+ul {
+  background-color: lightblue;
+}
+
+.services {
+  flex: 80%;
+}
+.navbar {
+  flex: 20%;
+}
