@@ -41,8 +41,8 @@ ul {
 }
 
 .services {
-  flex: 80%;
+  flex: 90%;
 }
 .navbar {
-  flex: 20%;
+  flex: 10%;
 }
